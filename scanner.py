@@ -43,3 +43,4 @@ if __name__ == "__main__":
     ports_to_scan = [21, 22, 23, 25, 53, 80, 110, 139, 143, 443, 445, 3389]
     results = scan_ports(target, ports_to_scan)
     save_report(target, results)
+Added main port scanning script
