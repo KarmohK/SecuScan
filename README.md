@@ -1,6 +1,6 @@
 # SecuScan
 
-SecuScan is a lightweight Python tool built to help identify basic security vulnerabilities on local systems and small networks. Built by a 16-year-old future cybersecurity analyst, it scans for open ports, weak configurations, and risky services — then generates a simple report to help fix them.
+SecuScan is a lightweight Python tool built to help identify basic security vulnerabilities on local systems and small networks. Built by Karmoh Amadou Kamara  (future cybersecurity analyst) it scans for open ports, weak configurations, and risky services — then generates a simple report to help fix them.
 
 ## Features
 - Port scanner (custom target)
